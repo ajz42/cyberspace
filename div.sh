@@ -6,4 +6,4 @@ read b
 c=$a/$b
 echo $c"is"
 echo $((a/b))
-
+echo " "

@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 
 hi i am anjali this is a trial text.
+=======
+unix is great os. unix is opensource. unix is free os
+uNIx is easy to learn
+Unix is a multiuser os
+>>>>>>> f5279ba7b68c733f002a5f06432ab463dfa12edf
